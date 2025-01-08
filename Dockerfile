@@ -1,5 +1,5 @@
 FROM alpine:3.12
-MAINTAINER Werner Beroux <werner@beroux.com>
+MAINTAINER Winem8 Team <support@winem8.com.au>
 
 # https://github.com/sgerrand/alpine-pkg-glibc
 ARG GLIBC_VERSION=2.31-r0
