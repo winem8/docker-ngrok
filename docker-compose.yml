@@ -2,11 +2,11 @@ version: '3'
 
 services:
   latest:
-    image: wernight/ngrok:latest
+    image: winem8/ngrok:latest
     build:
       context: .
 # armhf:
-#   image: wernight/ngrok:armhf
+#   image: winem8/ngrok:armhf
 #   build:
 #     context: .
 #     dockerfile: Dockerfile.armhf
